@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rejting-kazino.github.io/sitemap.xml
